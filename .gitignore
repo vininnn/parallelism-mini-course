@@ -1,0 +1,9 @@
+# Cpp
+bin
+
+# Python
+venv
+
+# Images
+*.png
+!fractal.png
